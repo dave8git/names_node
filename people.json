@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "male",
+    "name": "Tom",
+    "lastName": "Doe",
+    "age": 28
+  },
+  {
+    "gender": "male",
+    "name": "Barack",
+    "lastName": "Kowalski",
+    "age": 23
+  },
+  {
+    "gender": "female",
+    "name": "Joanna",
+    "lastName": "Kowalski",
+    "age": 67
+  },
+  {
+    "gender": "female",
+    "name": "Sue",
+    "lastName": "Kowalski",
+    "age": 21
+  },
+  {
+    "gender": "female",
+    "name": "Joanna",
+    "lastName": "Kowalski",
+    "age": 31
+  },
+  {
+    "gender": "female",
+    "name": "Joanna",
+    "lastName": "Kowalski",
+    "age": 41
+  },
+  {
+    "gender": "female",
+    "name": "Sue",
+    "lastName": "Doe",
+    "age": 39
+  },
+  {
+    "gender": "female",
+    "name": "Susan",
+    "lastName": "Smith",
+    "age": 47
+  },
+  {
+    "gender": "female",
+    "name": "Joanna",
+    "lastName": "Kowalski",
+    "age": 66
+  },
+  {
+    "gender": "male",
+    "name": "Tom",
+    "lastName": "Doe",
+    "age": 56
+  },
+  {
+    "gender": "male",
+    "name": "Henry",
+    "lastName": "Smith",
+    "age": 26
+  },
+  {
+    "gender": "male",
+    "name": "Barack",
+    "lastName": "Kowalski",
+    "age": 47
+  },
+  {
+    "gender": "female",
+    "name": "Hilary",
+    "lastName": "Obama",
+    "age": 51
+  },
+  {
+    "gender": "female",
+    "name": "Sue",
+    "lastName": "Smith",
+    "age": 67
+  },
+  {
+    "gender": "male",
+    "name": "Tom",
+    "lastName": "Doe",
+    "age": 18
+  },
+  {
+    "gender": "female",
+    "name": "Jenny",
+    "lastName": "Doe",
+    "age": 62
+  },
+  {
+    "gender": "female",
+    "name": "Sue",
+    "lastName": "Kowalski",
+    "age": 42
+  },
+  {
+    "gender": "male",
+    "name": "Barack",
+    "lastName": "Doe",
+    "age": 46
+  },
+  {
+    "gender": "male",
+    "name": "Barack",
+    "lastName": "Doe",
+    "age": 38
+  },
+  {
+    "gender": "male",
+    "name": "Tom",
+    "lastName": "Doe",
+    "age": 48
+  }
+]
